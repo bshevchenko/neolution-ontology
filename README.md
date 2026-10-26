@@ -1,3 +1,5 @@
+> 🌐 **Language:** **English** | [Русская версия (README.ru.md)](./README.ru.md)
+
 # ∞ NEOlution: An Ontological Framework and Mechanics of Transcending the Brain's Reductive Filter
 
 **An Integral Scientific and Philosophical Synthesis (Whitepaper / Conceptual Preprint)**  
