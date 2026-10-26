@@ -202,4 +202,31 @@ The final "shedding of the tail" of the illusory ego completely nullifies the ro
 4. **Krishnamurti, J., & Bohm, D.** (1985). *The Ending of Time: Where Philosophy and Physics Meet*. Harper & Row.
 5. **Schopenhauer, A.** (1839). *On the Freedom of the Will* (*Über die Freiheit des menschlichen Willens*).
 6. **Seligman, M. E. P.** (1975). *Helplessness: On Depression, Development, and Death*. W. H. Freeman.
-7. **Kochen, S., & Specker, E. P.** (1967). The Problem of Hidden Variables
+7. **Kochen, S., & Specker, E. P.** (1967). The Problem of Hidden Variables in Quantum Mechanics. *Journal of Mathematics and Mechanics*, 17(1), 59–87.
+8. **Bell, J. S.** (1964). On the Einstein Podolsky Rosen paradox. *Physics Physique Физика*, 1(3), 195–200.
+9. **The Royal Swedish Academy of Sciences** (2022). *The Nobel Prize in Physics 2022: Alain Aspect, John F. Clauser, Anton Zeilinger — For experiments with entangled photons, establishing the violation of Bell inequalities and pioneering quantum information science*.
+10. **Faggin, F.** (2024). *Irreducible: Consciousness, Life, Computers, and Human Nature*. Essentia Books.
+11. **Bohm, D.** (1980). *Wholeness and the Implicate Order*. Routledge.
+12. **Kastrup, B.** (2019). *The Idea of the World: A Multi-Disciplinary Argument for the Mental Nature of Reality*. Iff Books. (См. также: **Huxley, A.** (1954). *The Doors of Perception*).
+13. **Carhart-Harris, R. L., et al.** (2012). Neural correlates of the psychedelic state as determined by fMRI studies with psilocybin. *Proceedings of the National Academy of Sciences (PNAS)*, 109(6), 2138–2143.
+14. **van Lommel, P., et al.** (2001). Near-death experience in survivors of cardiac arrest: a prospective study in the Netherlands. *The Lancet*, 358(9298), 2039–2045.
+15. **Treffert, D. A.** (2009). The savant syndrome: an extraordinary condition. A synopsis: past, present, future. *Philosophical Transactions of the Royal Society B*, 364(1522), 1351–1357.
+16. **Li, N., Lu, D., Yang, L., et al.** (2018). Nuclear Spin Attenuates the Anesthetic Potency of Xenon Isotopes in Mice: Implications for the Mechanisms of Anesthesia and Consciousness. *Anesthesiology*, 129(2), 271–277. (См. также: **Hameroff, S., & Penrose, R.** (2014). Consciousness in the universe: A review of the 'Orch OR' theory. *Physics of Life Reviews*).
+17. **Llinás, R., & Ribary, U.** (1993). Coherent 40-Hz oscillation characterizes dream state in humans. *PNAS*, 90(5), 2078–2081.
+18. **Lutz, A., Greischar, L. L., Rawlings, N. B., Ricard, M., & Davidson, R. J.** (2004). Long-term meditators self-induce high-amplitude gamma synchrony during mental practice. *Proceedings of the National Academy of Sciences (PNAS)*, 101(46), 16369–16373.
+19. **Huberman, A., & Conti, P.** (2022–2023). *Huberman Lab Podcast: Understanding and Treating Addiction & Mental Health Series*.
+20. **Lembke, A.** (2021). *Dopamine Nation: Finding Balance in the Age of Indulgence*. Dutton.
+21. **Taleb, N. N.** (2007). *The Black Swan: The Impact of the Highly Improbable*. Random House.
+22. **Gödel, K.** (1931). Über formal unentscheidbare Sätze der Principia Mathematica und verwandter Systeme I. *Monatshefte für Mathematik und Physik*, 38, 173–198.
+23. **Chalmers, D. J.** (1995). Facing Up to the Problem of Consciousness. *Journal of Consciousness Studies*, 2(3), 200–219.
+24. **Shannon, C. E.** (1948). A Mathematical Theory of Communication. *Bell System Technical Journal*, 27(3), 379–423.
+25. **Альтшуллер, Г. С.** (1979). *Творчество как точная наука (Теория решения изобретательских задач)*. Советское радио.
+26. **Witten, E.** (1995). String theory dynamics in various dimensions. *Nuclear Physics B*, 443(1–2), 85–126.
+27. **Knorr von Rosenroth, C.** (1677–1684). *Kabbala Denudata* (из личной библиотеки Исаака Ньютона, Тринити-колледж, Кембридж; см. также: **Keynes, J. M.** (1946). *Newton, the Man*).
+28. **Curtiss, S.** (1977). *Genie: A Psycholinguistic Study of a Modern-Day "Wild Child"*. Academic Press.
+29. **Patanjali.** *The Yoga Sutras of Patanjali* (Сутры 1.23–1.29, 2.3–2.9, 2.30–2.55, 3.1–3.3).
+30. **Jung, C. G., & Wilson, B.** (1961). *The Bill Wilson — Carl Jung Letters* ("Spiritus contra spiritum"). *AA Grapevine* (1963).
+31. **Devane, W. A., Hanuš, L., Breuer, A., et al. (Mechoulam, R.)** (1992). Isolation and structure of a brain constituent that binds to the cannabinoid receptor (Anandamide). *Science*, 258(5090), 1946–1949.
+32. **Panksepp, J.** (1998). *Affective Neuroscience: The Foundations of Human and Animal Emotions*. Oxford University Press.
+33. **Ramanujan, S.** (1914). Modular Equations and Approximations to $\pi$. *Quarterly Journal of Mathematics*, 45, 350–372. (см. также: **Kanigel, R.** (1991). *The Man Who Knew Infinity: A Life of the Genius Ramanujan*).
+
