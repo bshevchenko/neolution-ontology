@@ -240,7 +240,17 @@
 1. **Закрытый практикум / Мастер-класс «НЕОлюция»** — живая передача полного ключа и практической механики разжатия фильтра в малой группе.
 2. **Индивидуальный онтологический аудит (Свадхьяя-разбор)** — личная сессия по чертежам вашего фильтра, точным узлам вашего текущего трения и маршруту выхода.
 
-* **Связаться лично (Telegram):** [@bruce_omni]
-* **Поддержать открытое исследование и выход книги (Донат / Патронаж):**
-  * **USDT (TRC20 / ERC20 / TON):** `[вставить адрес кошелька]`
-  * Для поддержки в рублях (СБП / перевод) — напишите лично в Telegram
+* **Запись на практикум, личный разбор или связь со мной (Telegram):** [@bruce_omni](https://t.me/bruce_omni)
+
+### Поддержать открытое исследование и выход книги (Донат / Патронаж):
+* **EVM (ETH / USDT / USDC — Ethereum, Arbitrum, Base, Optimism, Polygon, BSC):**  
+  `0xC9CE2d096c4f665Ec81a5d74078aD5dEa53E79ef`
+* **USDT (TRC20 / Tron):**  
+  `TK3mSbBxQ8Hyaf2mGEjQGi3kMeSKFHNoKs`
+* **TON / USDT (TON):**  
+  `UQDFla9ahlaXG_4-mihCm32VSfhIouncPEkYcPiDMvKxRTpW`
+* **Solana (SOL / USDC):**  
+  `2GtjKREVPNbk5vrVX4n1WjNfQYSV9WAJz8m44CbgfPVS`
+* **Bitcoin (BTC):**  
+  `bc1q6e7rugcnxd7vzznz297vfayepgdsfxcstzy6lt`
+* **Для поддержки в рублях (СБП / перевод):** напишите лично в Telegram [@bruce_omni](https://t.me/bruce_omni)
