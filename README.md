@@ -207,11 +207,11 @@ The final "shedding of the tail" of the illusory ego completely nullifies the ro
 9. **The Royal Swedish Academy of Sciences** (2022). *The Nobel Prize in Physics 2022: Alain Aspect, John F. Clauser, Anton Zeilinger — For experiments with entangled photons, establishing the violation of Bell inequalities and pioneering quantum information science*.
 10. **Faggin, F.** (2024). *Irreducible: Consciousness, Life, Computers, and Human Nature*. Essentia Books.
 11. **Bohm, D.** (1980). *Wholeness and the Implicate Order*. Routledge.
-12. **Kastrup, B.** (2019). *The Idea of the World: A Multi-Disciplinary Argument for the Mental Nature of Reality*. Iff Books. (См. также: **Huxley, A.** (1954). *The Doors of Perception*).
+12. **Kastrup, B.** (2019). *The Idea of the World: A Multi-Disciplinary Argument for the Mental Nature of Reality*. Iff Books. (See also: **Huxley, A.** (1954). *The Doors of Perception*).
 13. **Carhart-Harris, R. L., et al.** (2012). Neural correlates of the psychedelic state as determined by fMRI studies with psilocybin. *Proceedings of the National Academy of Sciences (PNAS)*, 109(6), 2138–2143.
 14. **van Lommel, P., et al.** (2001). Near-death experience in survivors of cardiac arrest: a prospective study in the Netherlands. *The Lancet*, 358(9298), 2039–2045.
 15. **Treffert, D. A.** (2009). The savant syndrome: an extraordinary condition. A synopsis: past, present, future. *Philosophical Transactions of the Royal Society B*, 364(1522), 1351–1357.
-16. **Li, N., Lu, D., Yang, L., et al.** (2018). Nuclear Spin Attenuates the Anesthetic Potency of Xenon Isotopes in Mice: Implications for the Mechanisms of Anesthesia and Consciousness. *Anesthesiology*, 129(2), 271–277. (См. также: **Hameroff, S., & Penrose, R.** (2014). Consciousness in the universe: A review of the 'Orch OR' theory. *Physics of Life Reviews*).
+16. **Li, N., Lu, D., Yang, L., et al.** (2018). Nuclear Spin Attenuates the Anesthetic Potency of Xenon Isotopes in Mice: Implications for the Mechanisms of Anesthesia and Consciousness. *Anesthesiology*, 129(2), 271–277. (See also: **Hameroff, S., & Penrose, R.** (2014). Consciousness in the universe: A review of the 'Orch OR' theory. *Physics of Life Reviews*).
 17. **Llinás, R., & Ribary, U.** (1993). Coherent 40-Hz oscillation characterizes dream state in humans. *PNAS*, 90(5), 2078–2081.
 18. **Lutz, A., Greischar, L. L., Rawlings, N. B., Ricard, M., & Davidson, R. J.** (2004). Long-term meditators self-induce high-amplitude gamma synchrony during mental practice. *Proceedings of the National Academy of Sciences (PNAS)*, 101(46), 16369–16373.
 19. **Huberman, A., & Conti, P.** (2022–2023). *Huberman Lab Podcast: Understanding and Treating Addiction & Mental Health Series*.
@@ -220,13 +220,39 @@ The final "shedding of the tail" of the illusory ego completely nullifies the ro
 22. **Gödel, K.** (1931). Über formal unentscheidbare Sätze der Principia Mathematica und verwandter Systeme I. *Monatshefte für Mathematik und Physik*, 38, 173–198.
 23. **Chalmers, D. J.** (1995). Facing Up to the Problem of Consciousness. *Journal of Consciousness Studies*, 2(3), 200–219.
 24. **Shannon, C. E.** (1948). A Mathematical Theory of Communication. *Bell System Technical Journal*, 27(3), 379–423.
-25. **Альтшуллер, Г. С.** (1979). *Творчество как точная наука (Теория решения изобретательских задач)*. Советское радио.
+25. **Altshuller, G. S.** (1979). *Creativity as an Exact Science: The Theory of the Solution of Inventive Problems (TRIZ)* [*Творчество как точная наука*]. Soviet Radio / Gordon and Breach Science Publishers (1984).
 26. **Witten, E.** (1995). String theory dynamics in various dimensions. *Nuclear Physics B*, 443(1–2), 85–126.
-27. **Knorr von Rosenroth, C.** (1677–1684). *Kabbala Denudata* (из личной библиотеки Исаака Ньютона, Тринити-колледж, Кембридж; см. также: **Keynes, J. M.** (1946). *Newton, the Man*).
+27. **Knorr von Rosenroth, C.** (1677–1684). *Kabbala Denudata* (from Isaac Newton's personal library, Trinity College, Cambridge; see also: **Keynes, J. M.** (1946). *Newton, the Man*).
 28. **Curtiss, S.** (1977). *Genie: A Psycholinguistic Study of a Modern-Day "Wild Child"*. Academic Press.
-29. **Patanjali.** *The Yoga Sutras of Patanjali* (Сутры 1.23–1.29, 2.3–2.9, 2.30–2.55, 3.1–3.3).
+29. **Patanjali.** *The Yoga Sutras of Patanjali* (Sutras 1.23–1.29, 2.3–2.9, 2.30–2.55, 3.1–3.3).
 30. **Jung, C. G., & Wilson, B.** (1961). *The Bill Wilson — Carl Jung Letters* ("Spiritus contra spiritum"). *AA Grapevine* (1963).
 31. **Devane, W. A., Hanuš, L., Breuer, A., et al. (Mechoulam, R.)** (1992). Isolation and structure of a brain constituent that binds to the cannabinoid receptor (Anandamide). *Science*, 258(5090), 1946–1949.
 32. **Panksepp, J.** (1998). *Affective Neuroscience: The Foundations of Human and Animal Emotions*. Oxford University Press.
-33. **Ramanujan, S.** (1914). Modular Equations and Approximations to $\pi$. *Quarterly Journal of Mathematics*, 45, 350–372. (см. также: **Kanigel, R.** (1991). *The Man Who Knew Infinity: A Life of the Genius Ramanujan*).
+33. **Ramanujan, S.** (1914). Modular Equations and Approximations to $\pi$. *Quarterly Journal of Mathematics*, 45, 350–372. (See also: **Kanigel, R.** (1991). *The Man Who Knew Infinity: A Life of the Genius Ramanujan*).
+
+---
+
+## Contact, Live Interaction & Research Patronage
+
+This ontological framework is published in open access as the foundational architecture for the upcoming book and applied tools of the **NEOlution** project.
+
+Since intellectual reading of the map alone cannot release the spasm of the filter (see Section 4), two formats of live interaction are available for practical integration and the analysis of your individual configuration:
+
+1. **Closed Workshop / Masterclass "NEOlution"** — live transmission of the complete key and the practical mechanics of releasing the filter in a small group setting.
+2. **Individual Ontological Audit (Svadhyaya Breakdown)** — a private 1-on-1 session analyzing the blueprints of your specific filter, the exact nodes of your current friction, and your direct route out.
+
+- **To apply for the workshop, book a private audit, or contact me directly (Telegram):** [@bruce_omni](https://t.me/bruce_omni)
+
+### Support Open Research & the Upcoming Book (Donations / Patronage):
+- **EVM (ETH / USDT / USDC — Ethereum, Arbitrum, Base, Optimism, Polygon, BSC):**  
+  `0xC9CE2d096c4f665Ec81a5d74078aD5dEa53E79ef`
+- **USDT (TRC20 / Tron):**  
+  `TK3mSbBxQ8Hyaf2mGEjQGi3kMeSKFHNoKs`
+- **TON / USDT (TON):**  
+  `UQDFla9ahlaXG_4-mihCm32VSfhIouncPEkYcPiDMvKxRTpW`
+- **Solana (SOL / USDC):**  
+  `2GtjKREVPNbk5vrVX4n1WjNfQYSV9WAJz8m44CbgfPVS`
+- **Bitcoin (BTC):**  
+  `bc1q6e7rugcnxd7vzznz297vfayepgdsfxcstzy6lt`
+- **For fiat support or alternative transfer methods (including RUB / SBP):** message me directly on Telegram [@bruce_omni](https://t.me/bruce_omni)
 
