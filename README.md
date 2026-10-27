@@ -27,8 +27,9 @@ This paper presents a unified, end-to-end ontological model (**"NEOlution"**) th
    - [5.1. Cosmology of the Process: Involution and Evolution (Gravity vs. Grace)](#51-cosmology-of-the-process-involution-and-evolution-gravity-vs-grace)
    - [5.2. Neolution: The Two-Stroke Engine of the Neocortical Mirror](#52-neolution-the-two-stroke-engine-of-the-neocortical-mirror)
    - [5.3. Two Routes to Total Non-Doing (Dhyana)](#53-two-routes-to-total-non-doing-dhyana)
-   - [5.4. Finale: Shedding the Tail](#54-finale-shedding-the-tail)
-6. [References](#6-references)
+6. [References](#6-references) \
+  \
+  [Contact, Live Interaction & Research Patronage](#contact-live-interaction--research-patronage)
 
 ---
 
