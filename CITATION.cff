@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you reference this ontological framework, please cite it as below."
+authors:
+  - family-names: "Shevchenko-Bogdanov"
+    given-names: "Boris"
+title: "NEOlution: An Ontological Framework and Mechanics of Transcending the Brain's Reductive Filter"
+version: 1.0.0
+date-released: 2026-10-26
+url: "https://github.com/bshevchenko/neolution-ontology"
+type: article
