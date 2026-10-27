@@ -7,6 +7,8 @@
 
 **Date:** October 26, 2026  
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23691667.svg)](https://doi.org/10.5281/zenodo.23691667)
+
 ---
 
 ## Abstract
