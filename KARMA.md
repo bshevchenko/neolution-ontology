@@ -1,7 +1,7 @@
 # KARMA LEDGER
 
 > Contextual memory of the Invisible College.  
-> Architectural principles and governance rules are defined in [GENESIS.ru.md](./GENESIS.ru.md) _(TODO english version)_.
+> Architectural principles and governance rules are defined in [GENESIS.md](./GENESIS.md).
 ---
 
 ## 1. Identity Registry
