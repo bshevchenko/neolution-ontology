@@ -1,3 +1,5 @@
+> 🌐 **Language:** **English** | [Русская версия (GENESIS.ru.md)](./GENESIS.ru.md)
+
 # THE INVISIBLE COLLEGE 2.0: Manifesto & Genesis Architecture (`GENESIS.md`)
 
 > *"Nullius in verba" (Take nobody's word for it — verify through direct experience).*  
