@@ -15,7 +15,7 @@ To break free from the fires of the Inquisition (which burned Giordano Bruno in 
 
 In 2026, we observe the exact same paralysis across both mainstream academia and alternative "post-materialist" circles:
 1. **The Dead End of Materialism (The Unripe Mango of Determinism):** Modern neurobiology (from Libet to Sapolsky) has proven the absence of an autonomous "doer." However, by remaining identified with the physical body, it has led the Western mind into learned helplessness and clinical fatalism.
-2. **The Dead End of "Post-Materialism" and Spiritual Wellness:** Platforms claiming to bridge science and non-duality have devolved into clubs of intellectual and spiritual consumerism. Any rigorous engineering model that deconstructs the ego-filter (Default Mode Network) is rejected as "too technical" because it disrupts their business model of selling comforting concepts to «well-fed turkeys».
+2. **The Dead End of "Post-Materialism" and Spiritual Wellness:** Platforms claiming to bridge science and non-duality have devolved into clubs of intellectual and spiritual consumerism. Any rigorous engineering model that deconstructs the ego-filter (Default Mode Network) is rejected as "too technical" because it disrupts their business model of selling comforting concepts to "well-fed turkeys".
 3. **The End of the Monopoly on Syntax:** For a thousand years, legacy schools trained narrow cognitive focus (the Western surrogate of *Dhāraṇā*) — the biocomputer's ability to memorize rules and recombine dead symbols. Today, silicon AI processes syntax millions of times faster and more accurately than any academic. Competing with machines in template accumulation is obsolete.
 
 In the new world, what used to be the closed domain of inner mystical schools stops being "esotericism" and becomes **foundational human cognitive literacy**.
@@ -24,13 +24,13 @@ A new science and a new social order cannot be built by begging for the approval
 
 That is exactly why the strict rule of Max Planck (the father of quantum mechanics) has always applied in the history of science:
 
-> «A new scientific truth does not triumph by convincing its opponents and making them see the light, but rather because its opponents eventually die, and a new generation grows up that is familiar with it.»
+> "A new scientific truth does not triumph by convincing its opponents and making them see the light, but rather because its opponents eventually die, and a new generation grows up that is familiar with it."
 
 ---
 
 ## II. Historical Precedent: How 12 Practitioners Built Modern Science
 
-In 1645, a group of engineers, opticians, architects, and natural philosophers — including Robert Boyle, Christopher Wren, Robert Hooke, John Wilkins, and later Isaac Newton — stopped storming old universities. They formed the **«Invisible College».**
+In 1645, a group of engineers, opticians, architects, and natural philosophers — including Robert Boyle, Christopher Wren, Robert Hooke, John Wilkins, and later Isaac Newton — stopped storming old universities. They formed the **"Invisible College".**
 
 It was called "Invisible" not out of conspiracy, but because it had no physical building, no dean's office, and no state budget. It was a distributed network of researchers and builders connected by correspondence, personal meetings, and a shared experimental method. Within 20 years, this group of a dozen minds absorbed the intellectual and technological potential of Europe, igniting the scientific and industrial revolution.
 
@@ -98,7 +98,7 @@ Like a quantum system prior to measurement, a completed action does not carry a 
 Instead of bloated blockchains, we use benchmark engineering minimalism — a plain-text ledger in a Git repository secured across four layers:
 
 1. **Cryptographic Chain and Signed Commits (`Signed Commits`):**  
-   The Git protocol itself is a directed acyclic graph (Merkle tree) where the `SHA-256` / `SHA-1` hash of every new change mathematically incorporates the entire preceding history. Every entry merged into the ledger is cryptographically signed at the Git level using a Maintainer's private key (SSH / GPG commit signature with `Verified` status). Forging such a signature or silently altering past records retroactively is mathematically impossible without breaking the hash chain for all participants.
+   The Git protocol itself is a directed acyclic graph (Merkle tree) where the `SHA-256` / `SHA-1` hash of every new change mathematically incorporates the entire preceding history. Every entry merged into the ledger is cryptographically signed at the Git level using the participating authors' private keys (SSH / GPG commit signatures with `Verified` status), while merge commits are sealed by Core Maintainers. Forging such a signature or silently altering past records retroactively is mathematically impossible without breaking the hash chain for all participants.
 2. **Decentralized Storage via Cloning:**  
    The plain-text ledger weighs only a few kilobytes. Every participant clones the repository (`git clone` / `git pull`) onto their computer or phone. Even if central GitHub servers are blocked or deleted, a complete copy of the community's memory — along with all cryptographic commit signatures — remains on participants' devices and can be restored on any new host in under a minute.
 3. **Permanent Archiving at CERN (Zenodo DOI):**  
