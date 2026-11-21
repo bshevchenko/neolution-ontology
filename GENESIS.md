@@ -90,6 +90,8 @@ Like a quantum system prior to measurement, a completed action does not carry a 
    * **Laboratory Patronage (Contribution to the "Treasury of the Experiment"):** Unconditional material support for ongoing research and core operations, allowing system architects to dedicate 100% of their time without fragmenting focus on commercial employment.
    * **Project and Returnable Contributions:** Investments of capital, land, construction capacity, or hardware toward specific physical and digital nodes of the network.
    * **Intellectual and Organizational Contributions:** Transferring technologies, blueprints, writing code, conducting audits, or connecting key individuals.
+3. **Relational Verification & Reputation Entanglement (No Central Audit Board):**  
+   The ledger does not rely on a centralized compliance bottleneck where maintainers manually audit real-world work. Consistent with quantum contextuality, an action is never logged in a vacuum by an isolated actor—it is always a relational event between 2+ participants. When Participant B builds upon Participant A's work and records that dependency, Participant B acts as the observer collapsing A's contribution into recorded reality, entangling their reputations (skin in the game). Value and verification are emergent from relational context and the empirical fact that the resulting build actually compiles in reality. Core Maintainers do not act as judges of merit; they simply cryptographically sign and notarize already-realized relational facts.
 
 ### Technical Indestructibility of the Ledger (Git + Cryptography + Archives)
 
