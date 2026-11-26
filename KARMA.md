@@ -25,14 +25,15 @@ Each participant is registered as a single entry matching the schema:
 
 ### Format Specification
 Each recorded contribution is a chronological append-only entry matching the schema:
-`- **<Timestamp>** | **<ID>** | <Factual & Action Context>`
+`- **<Timestamp>** | **<ID>** | **<Witness>** | <Factual & Action Context>`
 
 * **`<Timestamp>`**: Exact date (`YYYY-MM-DD`), month (`YYYY-MM`), or historical period (`YYYY-MM — YYYY-MM`) of the action. Exact commit-time down to the second is preserved natively in the signed Git commit history (`git log --show-signature`).
 * **`<ID>`**: Reference to the participant's `<ID>` in the Identity Registry.
+* **`<Witness>`**: Reference to the `<ID>` of the counterparty or observer who directly received, built upon, or verified the action (anchoring relational entanglement and skin in the game).
 * **`<Factual & Action Context>`**: Direct, objective record of the action without speculative ratings or categories.
 
 ### Recorded Actions
 
-- **2016-01 — 2016-09** | **sergey-t** | Introduced the foundational concepts of neurobiological determinism (Libet's experiments) and autonomous dome villages (Buckminster Fuller's geodesic structures combined with solar bio-vegetariums).
-- **2026-01 — 2026-11** | **@bshevchenko** | Formulated and published the *NEOlution* ontology, the *Disciple* cognitive framework, and the *Invisible College* architecture; full-time dedication of life resources.
-- **2026-01 — 2026-11** | **@NataliLoca23** | Co-founded the core research laboratory; continuous co-creation of the *Disciple* framework, diagnostic methodology, and daily stewardship of the project's base.
+- **2016-01 — 2016-09** | **sergey-t** | **@bshevchenko** | Introduced the foundational concepts of neurobiological determinism (Libet's experiments) and autonomous dome villages (Buckminster Fuller's geodesic structures combined with solar bio-vegetariums).
+- **2026-01 — 2026-11** | **@bshevchenko** | **@NataliLoca23** | Formulated and published the *NEOlution* ontology, the *Disciple* cognitive framework, and the *Invisible College* architecture; full-time dedication of life resources.
+- **2026-01 — 2026-11** | **@NataliLoca23** | **@bshevchenko** | Co-founded the core research laboratory; continuous co-creation of the *Disciple* framework, diagnostic methodology, and daily stewardship of the project's base.
