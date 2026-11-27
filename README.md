@@ -1,4 +1,6 @@
-> 🌐 **Language:** **English** | [Русская версия (README.ru.md)](./README.ru.md)
+> 🧭 **Ontology (`README.md`)** · [Invisible College 2.0: Manifesto & Architecture (`GENESIS.md`)](./GENESIS.md)
+
+> 🌐 **English** | [Русский (`README.ru.md`)](./README.ru.md)
 
 # ∞ NEOlution: An Ontological Framework and Mechanics of Transcending the Brain's Reductive Filter
 
