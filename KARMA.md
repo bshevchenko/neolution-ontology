@@ -29,7 +29,7 @@ Each recorded contribution is a chronological append-only entry matching the sch
 
 * **`<Timestamp>`**: Exact date (`YYYY-MM-DD`), month (`YYYY-MM`), or historical period (`YYYY-MM — YYYY-MM`) of the action. Exact commit-time down to the second is preserved natively in the signed Git commit history (`git log --show-signature`).
 * **`<ID>`**: Reference to the participant's `<ID>` in the Identity Registry.
-* **`<Witness>`**: Reference to the `<ID>` of the counterparty or observer who directly received, built upon, or verified the action (anchoring relational entanglement and skin in the game).
+* **`<Witnesses>`**: One or more comma-separated `<ID>`s of counterparties or observers who directly received, built upon, or verified the action (anchoring relational entanglement and skin in the game; outside initial Phase 0 bootstrap, at least one listed witness cryptographically signs the entry in Git history).
 * **`<Factual & Action Context>`**: Direct, objective record of the action without speculative ratings or categories.
 
 ### Recorded Actions
