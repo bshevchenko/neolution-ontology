@@ -4,8 +4,8 @@ authors:
   - family-names: "Shevchenko-Bogdanov"
     given-names: "Boris"
 title: "NEOlution: An Ontological Framework and Mechanics of Transcending the Brain's Reductive Filter"
-version: "1.0.0"
-date-released: 2026-10-26
+version: "1.4.0"
+date-released: 2026-11-27
 url: "https://github.com/bshevchenko/neolution-ontology"
 doi: "10.5281/zenodo.23691667"
 preferred-citation:
