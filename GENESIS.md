@@ -1,4 +1,6 @@
-> 🌐 **Language:** **English** | [Русская версия (GENESIS.ru.md)](./GENESIS.ru.md)
+<sub>🌐 **English** | [Русский](./GENESIS.ru.md)</sub>
+
+[Ontology](./README.md) · **Invisible College 2.0: Manifesto & Architecture**
 
 # THE INVISIBLE COLLEGE 2.0: Manifesto & Genesis Architecture (`GENESIS.md`)
 
